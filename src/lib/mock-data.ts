@@ -122,7 +122,7 @@ export const mockSiteData: SiteData = {
       description:
         "A serene and luxurious space for the bridal party to prepare, complete with vanities and private amenities.",
       imageUrl:
-        "https://images.unsplash.com/photo-1522364850168-1cd77fe9b3e4?w=800&q=80",
+        "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?w=800&q=80",
     },
   ],
 
@@ -146,8 +146,9 @@ export const mockSiteData: SiteData = {
 
   hasSocialProofs: true,
   socialProofImages: [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Knot_Logo.svg/320px-The_Knot_Logo.svg.png",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/WeddingWire_logo.svg/320px-WeddingWire_logo.svg.png",
+    "https://placehold.co/200x60/f5f0e8/2c3e50?text=The+Knot",
+    "https://placehold.co/200x60/f5f0e8/2c3e50?text=WeddingWire",
+    "https://placehold.co/200x60/f5f0e8/2c3e50?text=Carats+%26+Cakes",
   ],
 
   galleryPageTitle: "Moments at the Summit",
@@ -157,7 +158,7 @@ export const mockSiteData: SiteData = {
     "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&q=80",
     "https://images.unsplash.com/photo-1478146896981-b80fe463b330?w=800&q=80",
     "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&q=80",
-    "https://images.unsplash.com/photo-1522364850168-1cd77fe9b3e4?w=800&q=80",
+    "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?w=800&q=80",
     "https://images.unsplash.com/photo-1606800052052-a08af7148866?w=800&q=80",
     "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&q=80",
     "https://images.unsplash.com/photo-1591604466107-ec97de577aff?w=800&q=80",
